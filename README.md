@@ -1,4 +1,6 @@
-Para cada apartado 
+# Para cada apartado 
+
+es importante que sea simple y claro, ejemplo bueno: COrrelacion. Ejemplo malo regresion LOgistica: tiene que ser menos cosas y un dataset facil lo mejor posible que sea directamente en el codigo.
 
 
 ## Parte 1: Fundamentos Teóricos
