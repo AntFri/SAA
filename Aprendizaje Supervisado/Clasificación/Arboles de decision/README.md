@@ -1,3 +1,5 @@
+# Arbol de desicion clasificacion
+
 # 1: Fundamentos Teóricos
 EL Arbol de Decision de clasificacion sirve para categorizar los datos apartir de ciertos valor en este ejemplo era que si tienen un salario major de 100k apartir de los valore categoricos, si tiene un master, cual company trabaja, etc.
 Sus limitaciones son cuando se trabaja con se quieres predecir valores numerocos y no categorias, para valores numerico estael Arbol de decision de regression.
