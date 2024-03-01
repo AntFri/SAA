@@ -11,6 +11,6 @@ El dataset esta creado en el codigo directamente asique solo creamos und datafra
 # 3: Implementación de la Regression Lineal
 1. Primero he visualizado los valores del dataset con la libreria Matplotlib para ver como se van evolucionando
 2. Despues visualizar los datos los separasmo a X i Y para luego poder entrenar el modelo.
-3. Luego he creado el modelo con: model = **model = linear_model.LinearRegression()** y lo he entrenado con la funcion: **model.fit(X,y)** el X son las variables dependientes i y los independientes que son los datos del dataframe
+3. Luego he creado el modelo con: **model = linear_model.LinearRegression()** y lo he entrenado con la funcion: **model.fit(X,y)** el X son las variables dependientes i y los independientes que son los datos del dataframe
 4. Por ultimo hago una predicion con la funcion: **model.predict(X)**
 
