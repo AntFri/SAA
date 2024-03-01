@@ -11,6 +11,6 @@ esta en formato csv por lo tanto podemos importar directamente con pandas
 # 3: Implementación del Arbol de decision de Regression
 1. EN este Dataset teniamos que hacer un cambio en las variables dependientes para que podamos entrenar el Arbol de decisiones, eso lo hecho con el LabelEncoder que codifica el string a un numero y he cambiado todo asi a numeros
 2. Despues de introducir todos los numeroshe eleminado(drop) las columnas con strings para tener und dataframe limpio y organizado.
-3. Luego he creado el modelo con: model = **tree.DecisionTreeClassifier()** y lo he entrenado con la funcion: **model.fit(inputs_n, target)** el input_n son las variables dependientes y target los independientes que son los datos del dataframe
+3. Luego he creado el modelo con: **model = tree.DecisionTreeClassifier()** y lo he entrenado con la funcion: **model.fit(inputs_n, target)** el input_n son las variables dependientes y target los independientes que son los datos del dataframe
 4. Por ultimo he comprobado que precision nos da nuestro modelo con la funcion: **model.score(inputs_n, target)**
 
