@@ -11,7 +11,7 @@ esta en formato csv por lo tanto podemos importar directamente con pandas
 ![Data img](https://github.com/AntFri/SAA/blob/main/Tecnicas/Datos%20Entrenamiento%20y%20test/msedge_aJBVLyFv27.png)
 
 
-# 3: Implementación del Test y Train
+# 3: Implementación de datos entrenamiento y testing
 1. Leemos y imprimimos el dataset que tenemos
 2. con la linea: **from sklearn.model_selection import train_test_split** importamos la libreria des de sklearn
 3. A continuacion separamos en X e y que son las variables dependientes e independientes.
