@@ -1,11 +1,11 @@
 # Datos Entrenamiento y Testing
 
 # 1: Fundamentos Teóricos
-EL Arbol de Decision de clasificacion sirve para categorizar los datos apartir de ciertos valor en este ejemplo era que si tienen un salario major de 100k apartir de los valore categoricos, si tiene un master, cual company trabaja, etc.
-Sus limitaciones son cuando se trabaja con se quieres predecir valores numerocos y no categorias, para valores numerico estael Arbol de decision de regression.
+La separacion de datos en partes de entrenamiento y testing es muy util para comprobar la precision de nuestro modelo con datos que aun no ha visto nuestro modelo, asi no tenemos que tener 2 csv sino tenemos uno y vamos separando lo dinamicamente.
+La funcion escoje aleatoriamente datos del dataset hasta tener el porcentaje que le hemos dicho, esa aleatoridad se puede quitar poniendo:  **random_state=1** eso es como una semilla que siempre va a partir los datos igual, el 1 se puede poner a cualquier valor, importante tiene que serun valor numerico.
 
 # 2: Análisis Exploratorio de Datos (EDA)
-En este ejemplo he mos elegido un dataset que trata sobre trabajadores que ganan mas de 100k$ al anyo en ciertas companias con diferentes titulos, es un dataset simple pero con variedad para representar las posibilidades del arbold de decision
+En este ejemplo he mos elegido un dataset que trata sobre si una persona ha comprado un seguro o no con la edad que tiene, eso es util para ver cual es el grupo ideal en el mercado.
 esta en formato csv por lo tanto podemos importar directamente con pandas
 
 ![Data img](https://github.com/AntFri/SAA/blob/main/Tecnicas/Datos%20Entrenamiento%20y%20test/msedge_aJBVLyFv27.png)
