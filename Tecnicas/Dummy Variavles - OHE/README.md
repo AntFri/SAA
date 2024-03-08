@@ -7,6 +7,8 @@ Es un methodo de la libreria pandas para crear un valor numero apartir de un str
 En este ejemplo he mos elegido un dataset que trata sobre precios de casa que can variando dependiendo de la grandaria de la casa y la region en la cual estan. y el objectivo es predecir el precios apartir de la grandaria y el sitio en que estan.
 esta en formato csv por lo tanto podemos importar directamente con pandas
 
+![dataframe](https://github.com/AntFri/SAA/blob/main/Tecnicas/Dummy%20Variavles%20-%20OHE/msedge_XEb1YLqVfw.png)
+
 # 3: Implementación del Arbol de decision de Clasificacion
 1. Despues de cargar el Dataset empezamos directamente con los dummies, con el methodo: **dummies = pd.get_dummies(df_home.town)** le pasamos la columna **town** y de eso nos dara un dataframe con los dummies, creara tantas columans que diferentes variables hay.
 
