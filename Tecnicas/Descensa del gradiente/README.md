@@ -5,5 +5,5 @@ El decenso del gradiente es un fucion que se utiliza para encontrar el punto mas
 Uno ejemplo queson su ventaja es que puede desminuir el coste de la funcion en una regresion lineal, o en rede neuronales reduzir el error de predecir.
 ejemplos visuales:
 
-![Descenso del gradiente img]([http://url/to/img.png](https://th.bing.com/th/id/OIP.nW4u_WsR0PMchixxi22CDwHaFM?rs=1&pid=ImgDetMain)https://th.bing.com/th/id/OIP.nW4u_WsR0PMchixxi22CDwHaFM?rs=1&pid=ImgDetMain)
+![Descenso del gradiente img](https://th.bing.com/th/id/OIP.nW4u_WsR0PMchixxi22CDwHaFM?rs=1&pid=ImgDetMain)
 
