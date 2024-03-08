@@ -13,3 +13,4 @@ esta en formato csv por lo tanto podemos importar directamente con pandas
 2. luego con la funcion: **corr_matrix = df.corr()** creamos una matriz de correlacion que luego con la libreria **Matplotlib** se puede representar
 3. por ultimo con la funcion: **sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', ax=ax)** representamos y configuramso un mapa de calor que nos sirve para representar la matriz de correlacion. 
 
+![Corr img](https://github.com/AntFri/SAA/blob/main/Tecnicas/Correlacion/msedge_n9yv3rGM0k.png)
