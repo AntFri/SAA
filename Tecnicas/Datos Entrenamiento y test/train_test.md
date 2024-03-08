@@ -1,4 +1,4 @@
-# Arbol de desicion clasificacion
+# Datos Entrenamiento y Testing
 
 # 1: Fundamentos Teóricos
 EL Arbol de Decision de clasificacion sirve para categorizar los datos apartir de ciertos valor en este ejemplo era que si tienen un salario major de 100k apartir de los valore categoricos, si tiene un master, cual company trabaja, etc.
@@ -9,7 +9,9 @@ En este ejemplo he mos elegido un dataset que trata sobre trabajadores que ganan
 esta en formato csv por lo tanto podemos importar directamente con pandas
 
 # 3: Implementación del Arbol de decision de Clasificacion
-1. EN este Dataset teniamos que hacer un cambio en las variables dependientes para que podamos entrenar el Arbol de decisiones, eso lo hecho con el LabelEncoder que codifica el string a un numero y he cambiado todo asi a numeros
-2. Despues de introducir todos los numeroshe eleminado(drop) las columnas con strings para tener und dataframe limpio y organizado.
-3. Luego he creado el modelo con: model = **tree.DecisionTreeClassifier()** y lo he entrenado con la funcion: **model.fit(inputs_n, target)** el input_n son las variables dependientes y target los independientes que son los datos del dataframe
-4. Por ultimo he comprobado que precision nos da nuestro modelo con la funcion: **model.score(inputs_n, target)**
+1. Leemos y imprimimos el dataset que tenemos
+2. con la linea: **from sklearn.model_selection import train_test_split** importamos la libreria des de sklearn
+3. A continuacion separamos en X e y que son las variables dependientes e independientes.
+4. Luego para separar lo solo tenemos que utilizar la siguiente linea: **X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8)** Lo que esta haciendo es que devulve 4 dataframes con datos esos datos selo pass atravez las dos Cariables X e y y con el **train_size=0.8** hemos definido que el tamanyo de los datos de entreno es del 80% de los datos que le damos.
+![alt text](https://1drv.ms/i/s!AmjF651nK8lElqhHwZ1M7H8T-elI0A)
+5. Por ultimo he imprimodo cada dataframe y he entrenado el model. 
