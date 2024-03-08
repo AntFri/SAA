@@ -7,6 +7,7 @@ Sus limitaciones son cuando se trabaja con se quieres predecir valores numerocos
 # 2: Análisis Exploratorio de Datos (EDA)
 En este ejemplo he mos elegido un dataset que trata sobre trabajadores que ganan mas de 100k$ al anyo en ciertas companias con diferentes titulos, es un dataset simple pero con variedad para representar las posibilidades del arbold de decision
 esta en formato csv por lo tanto podemos importar directamente con pandas
+
 ![Data img](https://github.com/AntFri/SAA/blob/main/Tecnicas/Datos%20Entrenamiento%20y%20test/msedge_aJBVLyFv27.png)
 
 
