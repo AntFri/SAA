@@ -13,5 +13,5 @@ esta en formato csv por lo tanto podemos importar directamente con pandas
 2. con la linea: **from sklearn.model_selection import train_test_split** importamos la libreria des de sklearn
 3. A continuacion separamos en X e y que son las variables dependientes e independientes.
 4. Luego para separar lo solo tenemos que utilizar la siguiente linea: **X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8)** Lo que esta haciendo es que devulve 4 dataframes con datos esos datos selo pass atravez las dos Cariables X e y y con el **train_size=0.8** hemos definido que el tamanyo de los datos de entreno es del 80% de los datos que le damos.
-![alt text](blob:https://photos.onedrive.com/f5d516ac-3f66-48eb-a268-6ba0728c0424)
+![BIld](https://photos.onedrive.com/share/44C92B679DEBC568!365639?cid=44C92B679DEBC568&resId=44C92B679DEBC568!365639&authkey=!AMGdTOx_E_npSNA&ithint=photo)
 5. Por ultimo he imprimodo cada dataframe y he entrenado el model. 
