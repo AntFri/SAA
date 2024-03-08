@@ -8,6 +8,8 @@ Sus limitaciones son cuando se intenta sacar una relacion de variables que conti
 En este ejemplo he mos elegido un dataset que trata sobre los ataques/disparos en institutos/colegios en estados unidos, solo vamos a ver la relacion entre las muestes y los heridos para este ejemplo pero con OHE se podria utilizar tambien la resta de valores.
 esta en formato csv por lo tanto podemos importar directamente con pandas
 
+![Data Img](https://github.com/AntFri/SAA/blob/main/Tecnicas/Correlacion/msedge_xKQbWKHmyB.png)
+
 # 3: Implementación de la Correlacion
 1. Hemos importado el dataset con Pandas imprimido para ver todos los datos y la cantidad total de filas
 2. luego con la funcion: **corr_matrix = df.corr()** creamos una matriz de correlacion que luego con la libreria **Matplotlib** se puede representar
