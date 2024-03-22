@@ -1,0 +1,3 @@
+- Diferenciar entre los conceptos de inteligencia artificial (IA) fuerte y débil.
+- Identificar ejemplos reales y teóricos de aplicaciones de IA fuerte y débil.
+- Analizar y debatir sobre las implicaciones éticas, sociales y tecnológicas de la IA fuerte y débil.
