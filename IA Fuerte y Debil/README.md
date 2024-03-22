@@ -23,7 +23,7 @@ Tambien llamado IA especifica de tareas, esta disenyado para realizar tareas o f
 
 Las Eticas de la implementacion y el uso de IA esta muy debatido, IBM ha hecho en conjunto con el Oxford Econemie institute una ecuesta mas de 1200 empresas y executivos, el resultado de todo eso era que un 29% opinan que  la responsabilidad de datos es importante en una IA con etica correcta, pero tambien ha habido un 17% en alignamiento de valores y responsabilidad algorithmica.
 Tambien han encontrado que dependiendo de la region/localizacion geografica hay diferente relevancia para que el estado regula una IA y aconsiga que sea etica.
-- 
+
 
 
 ## Bibliografia/Webiografia:
