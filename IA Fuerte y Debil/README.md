@@ -2,13 +2,13 @@
 
 - IA fuerte:
 Tambien llamado IA general, es una Intelegencia artificial que aprende, comprende y razonar como un eser Humano. Aun se encuentra en el ambito de la ciencia ficcion, en un futuro la IA seria capaz de realizar cualquier tarea interlectual que un ser Humano, eso es el objetivo de los investigadores y cientificos.
-- - Ejemplo:
+- Ejemplo:
     - Vehiculos autonomos, podrian permitir a coches conducir sin conductor autonomamente.
     - En la Educacion, podria proporcionar tutoria personalizada en el idioma que quiera cada estudiante.
 
 - IA debil:
 Tambien llamado IA especifica de tareas, esta disenyado para realizar tareas o funciones especificas. Opera dentro de limites bien definidos y en aplicaciones especificas.
-- - Ejemplo:
+- Ejemplo:
     - Los asistentes virtuales como Siri o Alexa, reconozen voz y realizan solo tareas especificas.
     - Jugar al ajedrez
 
