@@ -16,6 +16,7 @@ Tambien llamado IA especifica de tareas, esta disenyado para realizar tareas o f
 
 - Diferencia ente IA fuerte y debil:
 
+La IA fuerte esta hecho para aprender nuevas cosas y trabajar sobre eso intentando imitir un Humano, por otro lado la IA debil es una sistema que realiza una tarea especifica y requiere interactuacion humana para los paso y el entreno. Los dos son utiles y tambine hay combinacion en lo cual se van combinando muchas IA debiles para parece una Ia fuerte pero que al final no es 100% lo que queremos porque tiene puntos debiles. 
 
 
 
